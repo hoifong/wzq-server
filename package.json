@@ -1,0 +1,14 @@
+{
+  "name": "doudizhu_server",
+  "version": "1.0.0",
+  "description": "斗地主后端部分",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hoi_fong@126.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
