@@ -120,7 +120,7 @@ app.post('/api/user_tick', function (req, res) {
 app.use(express.static('public'));
 
 
-app.listen(3000, ()=>{
+app.listen(80, ()=>{
     console.log("app running on port 3000..");
     store.start();
 });
