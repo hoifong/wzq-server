@@ -2,4 +2,4 @@
 
 基于nodejs,express4
 
-[项目地址](http://www.zxxxxx.xyz:3000)
+[项目地址](http://47.107.171.234:3000)
